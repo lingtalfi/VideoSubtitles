@@ -14,7 +14,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import VideoSubtitles
+uni import Ling/VideoSubtitles
 ```
 
 
@@ -39,7 +39,7 @@ Examples
 ```php
 <?php
 
-use VideoSubtitles\Srt\SrtToArrayTool;
+use Ling\VideoSubtitles\Srt\SrtToArrayTool;
 
 
 require_once "bigbang.php"; // start the local universe
@@ -78,7 +78,7 @@ The following options are available:
 ```php
 <?php
 
-use VideoSubtitles\Srt\SrtToArrayTool;
+use Ling\VideoSubtitles\Srt\SrtToArrayTool;
 
 
 require_once "bigbang.php"; // start the local universe

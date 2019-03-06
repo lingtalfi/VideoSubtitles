@@ -1,6 +1,6 @@
 <?php
 
-namespace VideoSubtitles\Srt;
+namespace Ling\VideoSubtitles\Srt;
 
 
 class SrtToArrayTool
